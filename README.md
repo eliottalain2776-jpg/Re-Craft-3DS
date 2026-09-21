@@ -171,7 +171,7 @@ AI Is a tool, not a fullstack programmer.
 - You can use AI to help sketching out features/Idea concepts
 
 - PRs that are 100% AI Code will NOT be accepted.
-- You cannot use AI to write ccode that you could have wrote yourself
+- You cannot use AI to write code that you could have wrote yourself
 - You cannot use AI to automate development processes
 - You cannot use AI to vibecode here, unless someone allows you to
 - You cannot use AI to communicate to other devs, speak for yourself
